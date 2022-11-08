@@ -11,8 +11,12 @@ public class SkillBuilder4 {
 
     // replace this line with your constants
 
+
+
     public static String findTYPattern(String s)
     {
         // replace this line with your code
+
+        return "";
     }
 }
